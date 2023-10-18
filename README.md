@@ -2,56 +2,43 @@
 
 # 🚀 Exploratory Data Analysis on Amazon Prime Content History 📺
 
-![Amazon Prime Logo](add_logo_url_here)
+This repository contains an exploratory data analysis (EDA) of Amazon Prime's content history from 2008 to 2021.
 
-This repository contains an exploratory data analysis (EDA) of Amazon Prime's content history from 2008 to 2021. The dataset, comprising a vast catalog of movies, TV shows, and original content, provides insights into the evolution of the platform's offerings.
+## Installation
 
-## Key Insights
+To run the Jupyter Notebook and explore the data analysis:
 
-- **Content Trends Over Time:** 📊 The content additions to Amazon Prime have varied over the years. The year 2018 marked a peak with the highest number of additions.
+```bash
+# Navigate to the project directory:
+cd kovai_task1
 
-- **Content by Genre/Category:** 🎬 The top five content genres/categories on the platform include International Movies, Dramas, Comedies, Action & Adventure, and Independent Movies.
+# Create a virtual environment (optional but recommended):
+python -m venv venv
+source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 
-- **Ratings Distribution:** 📢 The most common content rating is 'TV-MA,' signifying its prevalence among the platform's offerings.
+# Install the required Python libraries:
+pip install -r requirements.txt
 
-## Visualizations and Detailed Insights
+# Start Jupyter Notebook:
+jupyter notebook
+```
+Open the Jupyter Notebook named Amazon_Prime_Content_History.ipynb and run the analysis.
 
-### Content Trends Over Time
+Key Highlights
+Content Trends Over Time: 📊 The content additions to Amazon Prime have varied over the years. The year 2018 marked a peak with the highest number of additions.
 
-![Content Trends Over Time](add_image_url_here)
+Content by Genre/Category: 🎬 The top five content genres/categories on the platform include International Movies, Dramas, Comedies, Action & Adventure, and Independent Movies.
 
-- In 2018, the platform experienced a significant surge in content additions, marking a milestone in its expansion. 🌱
+Ratings Distribution: 📢 The most common content rating is 'TV-MA,' signifying its prevalence among the platform's offerings.
 
-- In contrast, 1942 had the lowest number of content additions, indicating significant variation in content acquisition strategies. 🛑
+Distribution of Release Years:
 
-### Content by Genre/Category
-
-![Content by Genre/Category](add_image_url_here)
-
-- The dominance of International Movies, Dramas, Comedies, Action & Adventure, and Independent Movies highlights strong viewer interest in these genres. 🌟
-
-### Ratings Distribution
-
-![Ratings Distribution](add_image_url_here)
-
-- The preeminence of 'TV-MA' among content ratings signifies a strong alignment with audience preferences. 👍
-
-## Distribution of Release Years
-
-- The year 2018 had the highest number of content additions with 691 additions.
-- The year 1942 had the lowest number of content additions with 1 addition.
-- The average number of content additions per year is approximately 79.17.
-
-![Distribution of Release Years](add_image_url_here)
-
-## Conclusion
-
+The year 2018 had the highest number of content additions with 691 additions.
+The year 1942 had the lowest number of content additions with 1 addition.
+The average number of content additions per year is approximately 79.17.
+Conclusion
 In conclusion, the analysis of Amazon Prime's content history reveals intriguing insights into the platform's evolving content library. The findings shed light on content trends, genre preferences, and the distribution of content ratings. These insights can inform content acquisition strategies, user engagement, and platform development. 🌐
 
-## References
 
-[Include references or data sources if applicable.]
 
----
-
-This content can be placed directly in your GitHub README file, and it should render as intended when viewed on your GitHub repository page. Make sure to replace `add_image_url_here` with actual image URLs, and add the Amazon Prime logo if you have one. Save the content in your README.md file in your repository.
+Feel free to customize the README with your specific project details. You can add the GitHub repository link (https://github.com/suryamr2002/kovai_task1) directly to your GitHub repository's README. 
