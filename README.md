@@ -33,9 +33,9 @@ Ratings Distribution: 📢 The most common content rating is 'TV-MA,' signifying
 
 Distribution of Release Years:
 
-The year 2018 had the highest number of content additions with 691 additions.
-The year 1942 had the lowest number of content additions with 1 addition.
-The average number of content additions per year is approximately 79.17.
+The year 2018 had the highest number of content additions with 691 additions.  
+The year 1942 had the lowest number of content additions with 1 addition.  
+The average number of content additions per year is approximately 79.17.  
 Conclusion
 In conclusion, the analysis of Amazon Prime's content history reveals intriguing insights into the platform's evolving content library. The findings shed light on content trends, genre preferences, and the distribution of content ratings. These insights can inform content acquisition strategies, user engagement, and platform development. 🌐
 
